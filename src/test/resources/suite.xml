@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name ="Daily finance">
+
+    <test name="User Registration">
+        <classes>
+            <class name="testrunner.UserRegistrationPageTestRunner"></class>
+        </classes>
+
+    </test>
+
+    <test name="Reset Password">
+        <classes>
+            <class name="testrunner.ResetPasswordTestRunner"></class>
+        </classes>
+
+    </test>
+
+    <test name="Login with new password ">
+        <classes>
+            <class name="testrunner.LoginTestRunner"></class>
+        </classes>
+
+    </test>
+
+    <test name="Add random two items">
+        <classes>
+            <class name="testrunner.AddNewItemTestRunner"></class>
+        </classes>
+
+    </test>
+
+    <test name="Update gmail ">
+        <classes>
+            <class name="testrunner.UpdateGmailTestRunner"></class>
+        </classes>
+
+    </test>
+
+    <test name="Login with update gmail">
+        <classes>
+            <class name="testrunner.LoginWithUpdatedGmailTestRunner"></class>
+        </classes>
+
+    </test>
+
+
+    <test name="Admin login">
+        <classes>
+            <class name="testrunner.AdminTestRunner"></class>
+        </classes>
+
+    </test>
+
+    <test name="Register 3 user from CSV file ">
+        <classes>
+            <class name="testrunner.RegistrationTestRunnerCSV"></class>
+        </classes>
+
+    </test>
+
+    <test name="Login as admin and get all the users from user table and write them in a text file">
+        <classes>
+            <class name="testrunner.GetAllUserInfoTestRunner"></class>
+        </classes>
+
+    </test>
+
+
+</suite>

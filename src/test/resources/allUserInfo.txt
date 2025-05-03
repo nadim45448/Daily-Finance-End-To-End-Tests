@@ -1,0 +1,11 @@
+First Name | Last Name | Email | Phone Number | Address | Gender | Registration Date
+Salman | Rahman | nadim.cse.edu+0211@gmail.com | 01278139843 | Dhaka | Male | 5/3/2025
+Nadim | Hossain | nadim.cse.edu+0501@gmail.com | 01252136427 | Dhaka | Male | 5/3/2025
+Opal Lynch | Kulas | nadim.cse.edu+5658@gmail.com | 01606356708 | 0178 Nathan Isle, Gerholdview, VA 01580-3366 | Male | 5/3/2025
+Minna McClure | Glover | nadim.cse.edu+1417@gmail.com | 01605412905 | 2023 Virgina Course, Thompsontown, WV 49886-3224 | Male | 5/3/2025
+ABC | XYZ | nadim.cse.edu+093@gmail.com | 01228539617 | Dhaka | Male | 5/3/2025
+Salman | Rahman | nadim.cse.edu+021@gmail.com | 01278139843 | Dhaka | Male | 5/3/2025
+Nadim | Hossain | nadim.cse.edu+050@gmail.com | 01252136427 | Dhaka | Male | 5/3/2025
+Janean Bechtelar | Jakubowski | nadim.cse.edu+3895@gmail.com | 01603504208 | 907 Beatty Turnpike, Kihnborough, DE 76160 | Male | 5/3/2025
+Zackary Mills | Koch | nadim.cse.edu+2554@gmail.com | 01604836692 | Suite 617 98853 Colby Glen, New Jimmie, NC 94186-4083 | Male | 5/3/2025
+Jenee Hackett | Hyatt | nadim.cse.edu+7983@gmail.com | 01604977970 | Apt. 880 410 Ciera Court, Rohanfurt, WA 49885-6143 | Male | 5/3/2025
