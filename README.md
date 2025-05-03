@@ -1,4 +1,4 @@
-#  DailyFinance-EndToEndTests
+#  DailyFinance-EndToEnd Tests
 
 ### Project Overview     
 This project is an **End-to-End Automation Testing Suite** for [DailyFinance](https://dailyfinance.roadtocareer.net/), covering **UI Testing (Selenium TestNG)**.  
