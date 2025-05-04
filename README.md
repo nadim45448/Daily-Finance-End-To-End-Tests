@@ -10,7 +10,7 @@ Uses config.properties, localstorage.json file for managing sensitive credential
 
 ##  Tech Stack
 
-| Tool/Library     | Purpose                         |
+| Tool/Framework     | Purpose                         |
 |------------------|----------------------------------|
 | Java             | Programming Language             |
 | Selenium WebDriver | UI Automation                   |
@@ -87,7 +87,7 @@ Before running the project, make sure the following are installed:
 ##  Project Setup & Execution
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DailyFinance-FullStackAutomation.git
+   git clone https://github.com/nadim45448/DailyFinance-FullStackAutomation.git
    ```
     - cd DailyFinance-FullStackAutomation
 2. Configure Gmail Credentials:  
